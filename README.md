@@ -33,6 +33,12 @@ The token gives full access to your account, so never commit `.env` or share it.
 
 ## 3. Run
 
+The easiest way: in File Explorer, right-click `openproject_timetracker.ps1` and
+choose **Run with PowerShell**. On Windows 11 it may be under
+**Show more options**. The window closes as soon as the script ends.
+
+Or run it from a PowerShell window:
+
 ```powershell
 .\openproject_timetracker.ps1
 ```
